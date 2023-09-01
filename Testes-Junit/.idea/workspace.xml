@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55b3f21d-f620-4f6c-a87c-0f68f9b3efa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula10-08-2023/Aula10-08-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/ExercicioPOOAutomovel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/CalculosFipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/Estacionamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/EstadoCivil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/Motorista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/TipoEstacionamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioPOOAutomovel/src/domain/TipoVeiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FormatadorCpfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aulaPOO17082023/aulaPOO17082023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/CalculosFipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/Estacionamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/EstadoCivil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/Motorista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/TipoEstacionamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/main/java/org/example/domain/TipoVeiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitTEST/src/test/java/org/example/servie/CalculadoraSeguroTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2UithY0ISkfoE6hnnGZ4cO8Gudg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mathe/OneDrive/Área de Trabalho/testeequalidadedesoftware/SEMANA05/TesteFuncionalAulaPratica",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FormatadorCpfTest.deveFormatarCpf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testes-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.FormatadorCpfTest" />
+      <option name="METHOD_NAME" value="deveFormatarCpf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FormatadorCpfTest.deveFormatarCpf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b3f21d-f620-4f6c-a87c-0f68f9b3efa3" name="Changes" comment="" />
+      <created>1693434352863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693434352863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
